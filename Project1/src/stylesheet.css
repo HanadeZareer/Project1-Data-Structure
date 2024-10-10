@@ -1,0 +1,41 @@
+.root{
+	-fx-font-family: 'Times New Roman';
+	-fx-font-size: 15px;
+	-fx-font-style: normal;
+	-fx-font-weight: normal;
+}
+.table-view .column-header .label {
+    -fx-font-size: 20px; 
+    -fx-font-weight: bold;
+}
+.table-view {
+    -fx-padding: 20px; /* Set padding (e.g., 10 pixels on all sides) */
+    
+}
+.table-view .column-header {
+    -fx-background-color: #7b68ee; /* Change this to your desired color */
+}
+ .button {
+    -fx-background-color: white;  /* Set the background color to white */
+    -fx-text-fill: black;         
+    -fx-border-color: black;     
+    -fx-border-width: 1px;      
+} 
+
+.button {
+    -fx-background-color: linear-gradient(#e2e2e2, white); 
+    -fx-border-color: #a0a0a0;
+    -fx-border-width: 1px;
+    -fx-border-radius: 5px; 
+    -fx-background-radius: 5px;
+     -fx-padding: 5px 10px;
+    -fx-effect: dropshadow(three-pass-box, rgba(0, 0, 0, 0.3), 5, 0, 3, 3); 
+    -fx-font-size: 14px;
+    -fx-font-weight: bold;
+}
+
+.button:pressed {
+    -fx-background-color: linear-gradient(#bdbdbd, #e2e2e2);
+    -fx-effect: dropshadow(three-pass-box, rgba(0, 0, 0, 0.2), 3, 0, 1, 1);
+    -fx-translate-y: 2px;
+}
