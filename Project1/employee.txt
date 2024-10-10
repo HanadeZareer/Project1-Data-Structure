@@ -1,0 +1,8 @@
+E001,Ahmad Rami,35,Engineering,2020-02-15,Male
+E002,Emily Ammar,29,Marketing,2019-06-22,Female
+E003,Sandy Ahmad,40,Human Resources,2021-08-10,Female
+E004,Sarah Ammar,26,Finance,2018-11-07,Female
+E005,Khaled Ramzi,38,Computer Science,2017-01-12,Male
+E006,Nancy Manasra,32,Cyber Security,2021-05-25,Female
+E007,Linda Tawfeq,45,Operations,2015-09-18,Female
+E008,Mariam Khaled,27,Customer Support,2020-03-30,Female
